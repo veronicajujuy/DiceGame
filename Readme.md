@@ -6,4 +6,5 @@ This game present two dices. When you refresh the page, shows who wins!
 
 ![](images/capture_site.png)
 
+In this excercise, you could see the use of querySelector and set attribute.
 Enyoy!
